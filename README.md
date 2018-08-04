@@ -1,2 +1,2 @@
 # SpaceShooter
-this is my first project using Unity 2018.2
+this is my second project using Unity 2018.2
